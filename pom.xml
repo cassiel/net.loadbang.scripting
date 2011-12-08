@@ -7,7 +7,7 @@
 
   <groupId>net.loadbang</groupId>
   <artifactId>net.loadbang.scripting</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.1.0</version>
   <packaging>jar</packaging>
 
   <name>net.loadbang.scripting</name>
