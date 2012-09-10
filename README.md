@@ -14,7 +14,7 @@ See the README for [net.loadbang.lib][lib] for installation details.
 
 Distributed under the [GNU General Public License][gpl].
 
-Copyright (C) 2011 Nick Rothwell.
+Copyright (C) 2012 Nick Rothwell.
 
 [max]: http://cycling74.com/products/max/
 [groovy]: https://github.com/cassiel/net.loadbang.groovy
